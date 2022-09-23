@@ -12,7 +12,8 @@
 - :book: Studying at Grafisch Lyceum Utrecht.
 
 - 🌱 I’m currently learning new programming languages to become a flexible developer. 
-      Languages that I am currently learning are: C#, PHP, SQL, HTML, CSS 
+-  :page_facing_up: Languages that I am currently learning are: C#, PHP, SQL, HTML and CSS. 
+      
 
 - ⚡ Fun fact: I have a total of 7 cats and 3 dogs.
 
