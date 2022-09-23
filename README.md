@@ -1,65 +1,24 @@
-### Hi there 👋
-
-
-
+### Hi there, i'm Jari :D
 
 
 ---
 
 ## 👨‍💻 About me
 
-### I am a Full Stack (Web) Developer <img src="https://github.com/MrPotato-04/MrPotato-04/blob/main/skeleton-smash.gif?raw=true" width="30">
+### I am a learning Game Development student
 
-- :telescope: I’m  a Software Engineer who mostly focuses on Web development and sometimes game development.
+- :thought_balloon: I focus on 3D projects in Unity and can work with C# and Scrum.
 
-- :book: Studying at ROC van Flevoland Almere Buiten.
+- :book: Studying at Grafisch Lyceum Utrecht.
 
-- :recycle: I'm a Professional ~~copy paster~~ Code recycler.
+- 🌱 I’m currently learning new programming languages to become a flexible developer. Languages im currently learning are: C#, PHP, SQL, HTML, CSS 
 
-- :potato: In my free time, I'm a potato
-
----
-
-## :hammer_and_wrench: Languages and Tools
+- ⚡ Fun fact: I have a total of 7 cats and 3 dogs.
 
 ---
 
-## 👨‍💻 About me
-
-### I am a Full Stack (Web) Developer <img src="https://github.com/MrPotato-04/MrPotato-04/blob/main/skeleton-smash.gif?raw=true" width="30">
-
-- :telescope: I’m  a Software Engineer who mostly focuses on Web development and sometimes game development.
-
-- :book: Studying at ROC van Flevoland Almere Buiten.
-
-- :recycle: I'm a Professional ~~copy paster~~ Code recycler.
-
-- :potato: In my free time, I'm a potato
-
----
-
-## :hammer_and_wrench: Languages and Tools
-
-
-
-
-
-
-
+## :computer: Github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JariPD&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JariPD&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**JariPD/JariPD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
