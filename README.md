@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning new programming languages to become a flexible developer. 
 -  :page_facing_up: Languages that I am currently learning are: C#, PHP, SQL, HTML and CSS. 
-      
+- <br>
 
 - ⚡ Fun fact: I have a total of 7 cats and 3 dogs.
 
