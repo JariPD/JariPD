@@ -15,12 +15,6 @@
 
 -  :page_facing_up: Languages that I am currently learning are: C#, PHP, SQL, HTML and CSS. 
  
-- ⚡ Fun fact: I have a total of 7 cats and 3 dogs.
+- ⚡ Fun fact: I have a total of 6 cats and 3 dogs.
 
 ---
-
-## :computer: Github stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JariPD&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JariPD&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
